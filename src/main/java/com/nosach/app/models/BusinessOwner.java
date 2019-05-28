@@ -4,5 +4,6 @@ import lombok.Data;
 
 @Data
 public class BusinessOwner {
+    private int id;
     private String name;
 }

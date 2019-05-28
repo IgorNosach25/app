@@ -29,6 +29,7 @@ public class DealControllerTest {
     private ObjectMapper mapper;
 
     private DealRequest dealRequest;
+
     @MockBean
     private DealProcessor dealProcessor;
 
